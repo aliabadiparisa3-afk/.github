@@ -1,4 +1,4 @@
-# .github
+Removed sections from the Contributor Covenant Code of Conduct.# .github
 
 *Community health files for the [@GitHub](https://github.com/github) organization*
 
